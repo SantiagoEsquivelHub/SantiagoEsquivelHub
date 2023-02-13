@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 
 * 👋 Hi, I'm Santiago Sánchez
-* 🧠 I’m currently working on my mind
+* 🔭 I’m currently working with js
