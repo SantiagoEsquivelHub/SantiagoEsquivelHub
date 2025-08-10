@@ -26,10 +26,10 @@
 
 | Project | Description | Technologies |
 |----------|-------------|-------------|
-| [**React_Udemy**](https://github.com/SantiagoEsquivelHub/React_Udemy) | React exercises and projects from Udemy course | ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| [**React_Udemy**](https://github.com/SantiagoEsquivelHub/React-Udemy) | React exercises and projects from Udemy course | ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [**CSharp_Udemy**](https://github.com/SantiagoEsquivelHub/CSharp_Udemy) | Exercises and examples in C# applying best practices | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) |
-| [**Docker_Udemy**](https://github.com/SantiagoEsquivelHub/Docker_Udemy) | Hands-on projects from the Docker Udemy course | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
-| [**Git_VersionControl_Udemy**](https://github.com/SantiagoEsquivelHub/Git_VersionControl_Udemy) | Git and version control course projects | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Version Control](https://img.shields.io/badge/-Version%20Control-lightgrey) |
+| [**Docker_Udemy**](https://github.com/SantiagoEsquivelHub/Docker) | Hands-on projects from the Docker Udemy course | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| [**Git_GitHub_Udemy**](https://github.com/SantiagoEsquivelHub/Git-GitHub-Udemy) | Git and GitHub course projects | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Version Control](https://img.shields.io/badge/-Version%20Control-lightgrey) |
 | [**SOLID_CleanCode**](https://github.com/SantiagoEsquivelHub/SOLID_CleanCode) | Examples applying SOLID principles and Clean Code | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Clean Code](https://img.shields.io/badge/-Clean%20Code-blue) |
 | [**NestJS_Microservices**](https://github.com/SantiagoEsquivelHub/NestJS_Microservices) | Microservices architecture with NestJS - Udemy course | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
 
@@ -44,6 +44,3 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssancheze/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantiagoEsquivelHub)
-
----
